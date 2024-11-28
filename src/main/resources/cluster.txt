@@ -1,0 +1,117 @@
+Discord issue
+I need to install Discord on my new PC.
+Discord disappeared from laptop after I updated Windows. I need it ASAP to communicate with sales department.
+Discord is very slow while other applications are working normally. Please check.
+Discor needed for instalation.
+I can't open Discord, it freezes every time I click on it. I tried to update it through our Software center but it still doesn't work.
+Discord emojis aren't available to me, I would like to have it bak.
+Installation needed.
+Discord is freezing from time to time, and it doesn't give me notification sound when I get message, although sound is on in settings.
+Discord, discord, I needed it installed yesterday. Please prioritize.
+Please install Discord on my PC. I also have issues with Powerpoint and I need a new mouse. I don't want to follow stupid instructions of posting one problem per request. I'm very important person in my company and I want to have my problems prioritized. Don't have the whole day to chat with customer support. I would install all I need bymyself if I had admin rights, which I mentioned multiple times to CTO, but he obviously don't wnat to hear me. Feel free to forward him this!
+Can't add people to Discord groups, nor make new Discord channels. Please help me.
+Discord ist mir sehr wichtig und ich kann es nicht länger als 3 Tage nutzen. Bitte lösen Sie dies so schnell wie möglich.
+Why I don't have Discord on the new laptop I ordered when I asked for it? Please install Discord on my pc.
+Ich kann meine Kollegen nicht hören, während ich auf Discord spreche, während ich die Musik auf meinem PC hören kann. Bitte beheben Sie dies.
+Asana ist das beste Tool für das Projektmanagement, es hilft mir sehr, also bitte installieren Sie es auf meinem neuen Laptop. Ich habe es bereits auf dem Schreibtischcomputer.
+Bitte installieren Sie Asana erneut auf meinem PC. Nach dem letzten Windows#Update funktioniert es nicht mehr.
+Ne mogu označiti zadatak kao izvršen u Asani. Molim vas da poduzmete nešto što prije kako bih mogao nastaviti dijelovati.
+Why Asana isn't working again?! Please make Asana works on my PC so I can do my work as PM.
+Please update Asana on my PC. I have it installed, but new version is available and I can't do the update.
+Asana stopped to work after I restarted my PC.
+I want to open Asana but when I click on the icon, I get this error: https://learn.microsoft.com/en#us/windows/win32/debug/system#error#codes##0#499# i tried to fix it, but I can't, here is snip of the problem: data:image/png;base64,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
+Avevo asana sul mio PC, ma dopo aver installato la nuova versione di Chrome è scomparsa. Si prega di installare nuovamente Asana sul mio PC.
+I just want to talk to an agent, there are too many problems on my pc to be explained in one ticket. Please call me when you see this, whoever you are. (talk to agent)
+Bitte aktualisieren Sie Asana auf die neue Version. Ich habe nicht die Erlaubnis dazu.
+Microsoft Outlook doesn't work. I can't send or recieve any mails. Please help.
+I need to be able to send messages from outlook asap since I need to contact client. Please make prompt contact when you see this message.
+My mail stopped to work after I updated Windows.
+Signature on my mail disapeared after I updated Outlook through Software Center. I need signature back, please help me.
+I get this outlook error> https://www.shoviv.com/blog/wp#content/uploads/2018/09/outlook#is#unable#to#connect#to#the#proxy#server.png and after I reinstalled it through Software Center, I get the new error: ![image.png](attachment:image.png)
+<p>Attachment I got is blocked due to e-mail policy</p><br>
+<p>Please unblock the attachment on my email I forwarded to helpdesk@company.com </p><br>
+<p>Die E-Mail von&nbsp;name.nachname@vendor.com wurde dringend erwartet! Wir haben nicht einmal eine Benachrichtigung erhalten, dass diese E-Mail blockiert wurde. Erst eine direkte Nachfrage bei Herrn Vendor Nachname ergab, dass er diese E-Mail bereits verschickt hatte. --&gt; Dies verursachte die Verzögerung eines Projekts!<br> WARUM ERFOLGTE KEINE BENACHRICHTIGUNG?</p><br>
+<p>Please release attached file</p><br>
+Outlook is stopping to work each now and then. Please check why.
+<p> I have serious problems with my email on mobile phone. It's rearly up to date, and I usually can't open attachements. Please solve this. </p>
+<p>E-Mail-Anhänge entsperren</p> <br>
+<p> I would like to use Gmail instead of Outlook. Is this possible? </p>
+Meine Signatur ist aus meiner E-Mail verschwunden. Bitte helfen Sie mir, dies zu beheben.
+Installation needed.
+Outlook funktioniert nach Update nicht. Hilfe bitte
+I face this outlook issue: https://support.microsoft.com/en-us/office/i-can-t-start-microsoft-outlook-or-receive-the-error-cannot-start-microsoft-office-outlook-cannot-open-the-outlook-window-d1f69da6-b333-4650-97bf-4d77bd7abb85. The snip of the problem: https://www.shoviv.com/blog/wp-content/uploads/2018/09/outlook-is-unable-to-connect-to-the-proxy-server.png
+Please install outlook on my new laptop.
+Please relase blocked attachements from the mail I got from name.surname@company.com. These are data needed for social media marketing campaing.
+<p> Bitte geben Sie blockierte Anhänge aus der Mail frei, die ich von name.nachname@firma.com erhalten habe. Dies sind Daten, die für das Brainstorming der Vertriebsstrategie benötigt werden. </p>
+<p>I'm &nbsp;no longer receiving emails from the following address&nbsp;sales@somecompany.com&nbsp;and mails also not appearing as&nbsp;email&nbsp;returned to&nbsp;sender after sending them. This problem is occurring&nbsp;also with other users.</p><<p></p><p><strong>Missing&nbsp;Emails&nbsp; </strong></p><br> Outlook Microsoft
+<p>Gebündelte Probleme mit Office seit Neustart:</p><p>Nachrichten nicht gesendet</p><p>Outlook verbindet sich nicht, Mails kommen nicht an</p><p>Fehler 0x8004deb0 erscheint beim Verbindungsversuch , siehe Anhang</p><p>Betroffen ist das Firmenkonto: AB123</p><p>Zugriff über Office.com scheint möglich zu sein.</p><p> Problem tritt seit Booten mit Login am 16.10. auf , 2022 gegen 09:00 Uhr vor fehlerfrei</p>
+<p>outlook issue , I did an update Windows and I have no more outlook on my note book ? Please help !</p> <br> Outlook
+<p>outlook is not updating inbox, I can't recieve any new messages, I tested the problem with colleague</p><br>
+<p> Ich muss meinen Posteingang mit einem Teammitglied teilen. Berechtigungen, die bereits von name.nachname@firma.com erteilt wurden, finden Sie im beigefügten Screenshot. Das System gibt einen Fehler zurück und auch der Outlook-Client tut dasselbe.</p>
+<p>When I open Outlook, it seems to open normally and I can see my Inbox or calendar and then within a couple seconds it closes on its own.&nbsp; I have tried to restart my laptop and have down a full shut down and Outlook keeps closing when I try to open it.&nbsp; It was working fine yesterday, but as soon as I turned on my laptop today, I started to experience those issues.&nbsp; I can view Outlook on my phone or through the app, but it is not ideal to try and do my job that way.</p>
+<p>Ich kann nicht auf Outlook zugreifen. Es zeigt den Status an, dass es offline arbeitet, und ich bin mit dem Internet verbunden </p> <br> Outlook
+Meine E-Mail funktioniert nicht, ich muss das dringend lösen, ich muss unseren Hauptkunden, die Firma XZ, kontaktieren. Bitte lösen Sie dies so schnell wie möglich!
+Nuevamente perspectiva aplastada. No puedo enviar ni recibir ningún correo.
+Se necesita ayuda.
+Mail is not working, I can't open it. Please help. I also get a lot of spam emails when it's working, please install some spam blocker as well.
+<p><strong> My internet browser stopped to work. I use Mozzila Firefox. Explorer and Chrome are working fine. </strong> </p>
+I can't update Google Chrome to the newest version, and I need to do so because of security reasons.
+Keiner meiner Internet Browser funktioniert, aber ich bin mit dem Internet verbunden und kann Discord normal verwenden. Bitte beheben Sie dies. Normalerweise benutze ich Chrome.
+<p><strong> Ne radi mi internetski preglednik (Mozzila Firefox) cijeli dan. Lijepo vas molim, pomozite čim prije. </strong> </p>
+My internet browser is working very slowly. Please make it faster.
+I can't open webpage https://unsplash.com/. I use Chrome, but tried in other net browsers as well. Doesn't help. Please give me the premission to visit any site on the internet.
+I need access to this webpage: https://www.eventbrite.com/d/online/business--seminars/ to participate on seminar on April 19th</p><br>
+<p>Ich muss die von unserem Inhaltsanbieter bereitgestellten regulatorischen Inhalte herunterladen, die nur über (S)FTP-Server bereitgestellt werden. Bitte aktivieren Sie den Zugriff. </p>
+<p>I use this websites to get news from the fresh food market&nbsp; <ul> <li> https://new.freshfood-market.com/ </li> <li> https://www.instagram.com/freshfoodmarket/?hl=en </li> </ul> </p> <br>. Please enable access to all of them.
+<p>Für den Quartalsbericht benötigen wir dringend die Börsendaten. Ermöglichen Sie den Zugriff auf alle Webseiten so schnell wie möglich. </p>
+<p>Need need to access this ML website ASAP: https://www.kaggle.com/ . It says</p><p>"Access Denied"&nbsp;You don't have permission to access "https://www.kaggle.com/" on this server.</p>
+<p>??????????????</p><br>
+Our CRM stopped to work again. I can't start it.
+Can't Edit customer field in our CRM. Please fix this.
+Hubspot CRM funktioniert überhaupt nicht. Bitte tu etwas.
+<p>Can't start Salesforce CRM. Please fix this issue.</p><br>
+CRM funktioniert nach dem letzten Windows-Update nicht.
+Want to add plug-in for Zoom into Hubspot CRM but I don't have permission. Please allow.
+I neeed Salesforce CRM on my new laptop. Please install it.
+Ich brauche Salesforce CRM auf meinem neuen Laptop. Bitte installieren Sie es.
+I can't adjust any field in CRM, and I was able to do so. Please help.
+CRM doesn't load customer data, I can't work without it. Please fix this ASAP!
+Installation erforderlich.
+I would need Salesforce installed on my PC. I already have Hubspot CRM. THanks!
+Please fix my CRM. It is not working since yesterday.
+This is just test message. Neglect please.
+Dies ist nur eine Testnachricht. Bitte vernachlässigen.
+I need to use CRM. Please install it on my pc.
+Mein Outlook-Posteingang ist voll. Bitte stellen Sie mir zusätzlichen Platz zur Verfügung.
+Installation erforderlich.
+My mail (Outlook) on mobilephone isn't working. Please fix this issue.
+I need help and would like to talk to human. (talk to agent)
+Bitte reparieren Sie mein Hubspot CRM. Seit gestern funktioniert es nicht mehr
+<p>Bundled problems with Office since restart:</p><p>Messages not sent</p><p>Outlook does not connect, mails do not arrive</p><p>Error 0x8004deb0 appears when Connection attempt, see attachment</p><p>The company account is affected: AB123</p><p>Access via Office.com seems to be possible.</p>
+Asana funktionierte nicht mehr, nachdem ich meinen Laptop neu gestartet hatte. Bitte helfen Sie.
+Discord emojis aren't available to me, I would like to have this option enabled like other team members have.
+Dies ist nur eine Testnachricht. Bitte vernachlässigen.
+My headphones aren't working. I would like to order new.
+Installation needed.
+Ich möchte mit dem Agenten sprechen, ich brauche Rat.
+<p>I have defect with mouse. Please change</p><p>Device N102466</p>
+<table><tbody><tr><td>Asset life has been ended so I need to change pc mouse. I marked the odl as scrapped.</td></tr></tbody></table>
+<p><br> I need guarantee exchange for a new device. New SN: 30739<br> Old SN: 30292</p>
+<p><br> Ich benötige Garantietausch für ein neues Gerät. Neue Seriennummer: 30739<br> Alte Seriennummer: 30292</p>
+Die linke Maustaste funktioniert nicht mehr. Bitte neues schicken.
+<p> Die rechte Maustaste funktioniert nicht mehr. Bitte neues schicken. </p>
+I need the extra mouse for my new laptop. Can I get one?
+Ich muss mit dem Agenten sprechen, ich habe mehrere Probleme, einschließlich der Computermaus. (talk to agent)
+I would like to order mouse for left-handed person (me).
+New pc mouse needed.
+My keyboard is broken. Please send the new one
+Sound control on my keyboard doesn't work. Please help me to fix / send the new one.
+Ich brauche eine zusätzliche Tastatur. Bitte senden Sie eine.
+<p><strong> Ne radi mi tipkovnica na prijenosnom računala. Molim vas pomozite čim prije. Lijepo pozdrav </strong> </p>
+<p><strong> Laptop keyboard doesn't work. I tried to use external keyboard and it worked. Please help. </strong> </p>
+I would like to order an extra keyboard. Office number 1231.
+Ich möchte eine zusätzliche Tastatur bestellen. Büronummer 1319.
+Der Tastaturaustausch ist erforderlich. Bitte senden Sie die neue so bald wie möglich.
+I would like to order the new keyboard for presentation room.
+Please send the new keyboard to my home address for home office: City, Street 12, Flat: Surname.
+Please send the new keyboard to my home address for home office: City, Street: The Best Street Ever, Flat: Surname.

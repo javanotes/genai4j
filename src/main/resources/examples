@@ -1,0 +1,44 @@
+"Adam is a software engineer in Microsoft since 2009, and last year he got an award as the Best Talent"
+"Microsoft is a tech company that provide several products such as Microsoft Word"
+"Microsoft Word is a lightweight app that is accessible offline"
+examples = [
+    {
+        
+        "head": "Adam",
+        "head_type": "Person",
+        "relation": "WORKS_FOR",
+        "tail": "Microsoft",
+        "tail_type": "Company",
+    },
+    {
+        
+        "head": "Adam",
+        "head_type": "Person",
+        "relation": "HAS_AWARD",
+        "tail": "Best Talent",
+        "tail_type": "Award",
+    },
+    {
+        
+        "head": "Microsoft Word",
+        "head_type": "Product",
+        "relation": "PRODUCED_BY",
+        "tail": "Microsoft",
+        "tail_type": "Company",
+    },
+    {
+        "text": ,
+        "head": "Microsoft Word",
+        "head_type": "Product",
+        "relation": "HAS_CHARACTERISTIC",
+        "tail": "lightweight app",
+        "tail_type": "Characteristic",
+    },
+    {
+        "head": "Microsoft Word",
+        "head_type": "Product",
+        "relation": "HAS_CHARACTERISTIC",
+        "tail": "accessible offline",
+        "tail_type": "Characteristic",
+    },
+]

@@ -1,0 +1,20 @@
+Description
+In the vaccination approvals, 'Date submitted' is mapping to 'Date administered' for vaccination, instead of the request submission date.
+
+Steps to Reproduce
+1. Fill relevant fields in Vaccination Status > Report Vaccination
+2. Select a Date Administered in the past
+3. Submit
+4. Fill relevant fields in Health and Safety Testing > Report a COVID-19 diagnostic test result
+5. Select a date you received the result in the past
+6. Submit
+7. View in the Approval Portal as an Admin the above submitted records to approve or deny
+8. Open Employee Health and Safety Status > Approval Portal ( /nav_to.do?uri=%2Fsp%3Fid%3Dapproval_portal )
+
+Review the Date Submitted values for the record type 'Vaccination Doses'. Date Submitted is displaying the value from 'Date Administered'.
+For the record type 'Health Status', Date Submitted is displaying the value from 'Date you received the results'.
+
+Workaround
+After carefully considering the severity and frequency of the issue, and the cost and risk of attempting a fix, it has been decided to not address this issue in any current or near future releases. We do not make this decision lightly, and we apologise for any inconvenience. Customers can request a product enhancement in the SN Idea Portal, which can be taken into consideration for a future release.
+
+The logic is primarily in the ApprovalPortalUtil Script Include. The requirement would be for the "Date submitted" column should show the sys_created_on value, and for a new field named "Date vaccine administered" to map to the existing date_administered field.

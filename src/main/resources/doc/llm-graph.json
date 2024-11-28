@@ -1,0 +1,65 @@
+[
+	{
+		"head": "SAML2 configuration",
+		"head_type": "Concept",
+		"relation": "UNABLE_TO_CREATE_METADATA_FOR",
+		"tail": "IE8",
+		"tail_type": "Browser"
+	},
+	{
+		"head": "IE8",
+		"head_type": "Browser",
+		"relation": "AFFECTS",
+		"tail": "Admin users and below",
+		"tail_type": "UserRole"
+	},
+	{
+		"head": "Maint",
+		"head_type": "UserRole",
+		"relation": "NOT_AFFECTED_BY",
+		"tail": "IE8",
+		"tail_type": "Browser"
+	},
+	{
+		"head": "Security debug",
+		"head_type": "Concept",
+		"relation": "DIDNT_SHOW_ANY_ERRORS",
+		"tail": "IE8",
+		"tail_type": "Browser"
+	},
+	{
+		"head": "SAML 2 Single Sign-on",
+		"head_type": "Concept",
+		"relation": "NAVIGATE_TO",
+		"tail": "Metadata",
+		"tail_type": "Concept"
+	},
+	{
+		"head": "Metadata",
+		"head_type": "Concept",
+		"relation": "NOTHING_IS_GENERATED",
+		"tail": "IE8",
+		"tail_type": "Browser"
+	},
+	{
+		"head": "IE8",
+		"head_type": "Browser",
+		"relation": "SHOWS_ERROR",
+		"tail": "status bar",
+		"tail_type": "Concept"
+	},
+	{
+		"head": "SAML2 configuration",
+		"head_type": "Concept",
+		"relation": "RELATED_PROBLEM",
+		"tail": "PRB582036",
+		"tail_type": "Problem"
+	},
+	{
+		"head": "Internet Explorer 8",
+		"head_type": "Browser",
+		"relation": "USE_ALTERNATE_BROWSER",
+		"tail": "FireFox, Chrome, or Safari",
+		"tail_type": "Browser"
+	}
+]

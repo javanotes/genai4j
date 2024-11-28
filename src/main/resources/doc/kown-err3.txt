@@ -1,0 +1,22 @@
+Description
+For update sets that contain a delete for a table that does not exist, the update set will complete successfully but the progress worker that was doing the commit is never marked as complete and sits at 90-something percent complete. This is a non-fatal error.
+
+Steps to Reproduce
+Import an update set that contains a table delete for a table not in the target system.
+
+Commit the update set.
+
+Note that the progress worker dialog never disappears.
+
+Refresh the form.
+
+Note that the status is complete.
+
+Find the root sys_execution_tracker record for this operation.
+
+Note that the tracker is still running and one of its children for "dropping table" is marked as failed.
+
+ 
+
+Workaround
+Close (do not cancel) the dialog window and refresh the form to see the status marked as completed.

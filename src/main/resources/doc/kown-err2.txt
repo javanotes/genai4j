@@ -1,0 +1,33 @@
+Description
+Re-creating a previously deleted table that is extending another table from CMDB hierarchy does not inherit columns from extended table. The re-created table is not usable because columns are not inherited form the parent. Also, the re-created table displays the same label as the parent table.
+
+Steps to Reproduce
+1. Navigate to sys_db_object.list and create a new table (u_new_table_name) extending cmdb_ci or other table in cmdb hierarchy
+
+2. Observe the inherited columns on u_new_table_name
+
+3. Open the sys_db_object record for the newly created table and execute the UI actions "Delete all records" and afterwards "Delete".
+/sys_db_object_list.do?sysparm_query=name%3Du_new_table_name
+
+4. Check the sys_storage_table_alias for entries defined for u_new_table_name.
+/sys_storage_table_alias_list.do?sysparm_query=table_name%3Du_new_table_name
+
+5. Check sys_storage_alias for entries defined for u_new_table_name.
+/sys_storage_alias_list.do?sysparm_query=table_name%3Du_new_table_name
+
+6. Re-create table u_new_table_name extending the same parent.
+
+7. Open the sys_db_object record for the newly created table.
+Note that no column is inherited from parent.
+
+Expected behavior: Orphan storage alias records should not exist after table deletion and we should be able to re-create the table
+
+Actual behavior: Orphan storage alias records should not exist after table deletion and columns are not inherited form parent when table is recreated
+
+Workaround
+Delete the table using the TableUtils drop API and then re-create it.
+
+For more information, see the product documentation topic TableUtils - Global.
+
+
+Related Problem: PRB1260578
